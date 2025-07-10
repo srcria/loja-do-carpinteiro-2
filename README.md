@@ -1,13 +1,11 @@
-<!DOCTYPE html>
+[<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>josé carpinteiro</title>
     <style>
-        body {
-            background-color: #1a1a40;
-            color: #ffffff;
+        body {a
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
@@ -174,3 +172,4 @@ Comprar via Pix
     </script>
 </body>
 </html>
+](https://srcria.github.io/loja-do-carpinteiro-2/)
